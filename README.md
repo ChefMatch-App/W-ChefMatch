@@ -1,8 +1,13 @@
-# React + Vite
+# Chef Match
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Chef Match is a freelance platform that allows clients to connect with chefs for custom dishes, catering orders, or large quantities of food for events. The platform empowers home-based chefs to earn extra income while ensuring high-quality standards through a professional quality control team.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#Features
+
+Customizable Orders: Clients can specify food types, quantities, and budgets for personalized meals.
+Home Chef Opportunities: Provides home-based chefs a platform to showcase their talents and earn income.
+Quality Assurance: Dedicated quality control team to ensure the highest food standards.
+Delivery Services: Reliable delivery partnerships to ensure timely and fresh deliveries.
+AI-Driven Recommendations: AI suggests chefs and meal plans based on client preferences, budgets, and dietary restrictions.
+Ratings System: Clients can rate chefs and individual dishes for transparency and quality assurance.
