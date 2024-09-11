@@ -42,7 +42,7 @@ AI Chatbot: 24/7 support and meal recommendations.
       git clone https://github.com/your-username/ieee-dishlink.git
       
 2- Navigate into the directory ===> 
-      cd ieee-dishlink
+      cd W-ChefMatch
       
 3- Install Dependencies ===> 
       npm install 
