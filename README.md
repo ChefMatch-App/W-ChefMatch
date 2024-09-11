@@ -35,3 +35,24 @@ Client Recommendations: Analyzing preferences and suggesting the best chefs and 
 Meal Planning: AI helps clients create well-rounded meal plans.
 Budget Optimization: AI ensures clients get the best value for their money while maintaining food quality.
 AI Chatbot: 24/7 support and meal recommendations.
+
+# 📦 Installation
+
+1- Clone the Repository
+      git clone https://github.com/your-username/ieee-dishlink.git
+      
+2- Navigate into the directory
+      cd ieee-dishlink
+      
+3- Install Dependencies
+      npm install
+      
+4- Run the Development Server
+      npm run dev
+      
+5- Build for Production
+      npm run build
+      
+6- Preview the Production Build
+      npm run preview
+
