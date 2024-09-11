@@ -38,21 +38,21 @@ AI Chatbot: 24/7 support and meal recommendations.
 
 # 📦 Installation
 
-1- Clone the Repository
+1- Clone the Repository ===> 
       git clone https://github.com/your-username/ieee-dishlink.git
       
-2- Navigate into the directory
+2- Navigate into the directory ===> 
       cd ieee-dishlink
       
-3- Install Dependencies
-      npm install
+3- Install Dependencies ===> 
+      npm install 
       
-4- Run the Development Server
+4- Run the Development Server ===> 
       npm run dev
       
-5- Build for Production
+5- Build for Production ===> 
       npm run build
       
-6- Preview the Production Build
+6- Preview the Production Build ===> 
       npm run preview
 
