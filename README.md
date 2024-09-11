@@ -39,7 +39,7 @@ AI Chatbot: 24/7 support and meal recommendations.
 # 📦 Installation
 
 1- Clone the Repository ===> 
-      git clone https://github.com/your-username/ieee-dishlink.git
+      git clone https://github.com/ChefMatch-App/W-ChefMatch.git
       
 2- Navigate into the directory ===> 
       cd W-ChefMatch
